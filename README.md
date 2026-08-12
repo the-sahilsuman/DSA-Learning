@@ -8,6 +8,7 @@
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
 | [2055-plates-between-candles](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2055-plates-between-candles) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
