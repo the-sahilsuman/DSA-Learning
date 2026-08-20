@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
+| [0880-decoded-string-at-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0880-decoded-string-at-index) |
 | [2055-plates-between-candles](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2055-plates-between-candles) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -160,6 +161,7 @@
 ## Stack
 |  |
 | ------- |
+| [0880-decoded-string-at-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0880-decoded-string-at-index) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Union-Find
 |  |
