@@ -98,6 +98,7 @@
 | [1927-sum-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
+| [2579-count-total-number-of-colored-cells](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2579-count-total-number-of-colored-cells) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
