@@ -9,6 +9,7 @@
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1872-stone-game-viii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2055-plates-between-candles](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2055-plates-between-candles) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
 ## Design
@@ -204,6 +207,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
@@ -213,6 +217,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
