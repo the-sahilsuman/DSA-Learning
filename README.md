@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2924-find-champion-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2924-find-champion-ii) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Sorting
 |  |
