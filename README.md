@@ -11,6 +11,7 @@
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1872-stone-game-viii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1872-stone-game-viii) |
+| [1946-largest-number-after-mutating-substring](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [2029-stone-game-ix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2055-plates-between-candles](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2055-plates-between-candles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -72,6 +73,7 @@
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0880-decoded-string-at-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0880-decoded-string-at-index) |
 | [1927-sum-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1927-sum-game) |
+| [1946-largest-number-after-mutating-substring](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [2055-plates-between-candles](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2055-plates-between-candles) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -248,6 +250,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1927-sum-game) |
+| [1946-largest-number-after-mutating-substring](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [2029-stone-game-ix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
