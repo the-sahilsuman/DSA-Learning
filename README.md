@@ -34,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
 | [0494-target-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
@@ -71,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0880-decoded-string-at-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0880-decoded-string-at-index) |
 | [1927-sum-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1927-sum-game) |
@@ -287,4 +289,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
