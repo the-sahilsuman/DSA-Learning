@@ -7,6 +7,7 @@
 | [0056-merge-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0056-merge-intervals) |
 | [0494-target-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
+| [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
+| [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -75,6 +77,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
+| [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [0880-decoded-string-at-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0880-decoded-string-at-index) |
 | [1927-sum-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1927-sum-game) |
 | [1946-largest-number-after-mutating-substring](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1946-largest-number-after-mutating-substring) |
@@ -164,6 +167,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -180,6 +184,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0056-merge-intervals) |
+| [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Tree
@@ -190,6 +195,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -216,6 +222,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
