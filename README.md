@@ -8,6 +8,7 @@
 | [0494-target-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
+| [0990-satisfiability-of-equality-equations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0990-satisfiability-of-equality-equations) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -79,6 +80,7 @@
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [0880-decoded-string-at-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0880-decoded-string-at-index) |
+| [0990-satisfiability-of-equality-equations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0990-satisfiability-of-equality-equations) |
 | [1927-sum-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1927-sum-game) |
 | [1946-largest-number-after-mutating-substring](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [2055-plates-between-candles](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2055-plates-between-candles) |
@@ -177,6 +179,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0990-satisfiability-of-equality-equations) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2924-find-champion-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2924-find-champion-ii) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
@@ -223,6 +226,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
+| [0990-satisfiability-of-equality-equations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0990-satisfiability-of-equality-equations) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
