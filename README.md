@@ -200,6 +200,7 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
 ## Depth-First Search
 |  |
@@ -207,6 +208,7 @@
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
 ## Design
@@ -312,4 +314,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
