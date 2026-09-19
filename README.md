@@ -125,6 +125,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1872-stone-game-viii) |
@@ -345,4 +346,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
