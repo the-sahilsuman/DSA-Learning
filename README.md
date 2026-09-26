@@ -14,6 +14,7 @@
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1872-stone-game-viii) |
 | [1946-largest-number-after-mutating-substring](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [2029-stone-game-ix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2029-stone-game-ix) |
@@ -80,6 +81,7 @@
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -98,6 +100,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0990-satisfiability-of-equality-equations) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1927-sum-game) |
 | [1946-largest-number-after-mutating-substring](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [2055-plates-between-candles](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2055-plates-between-candles) |
