@@ -99,6 +99,7 @@
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [0880-decoded-string-at-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0880-decoded-string-at-index) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0990-satisfiability-of-equality-equations) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0880-decoded-string-at-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0880-decoded-string-at-index) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Union-Find
@@ -310,6 +312,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1927-sum-game) |
@@ -370,5 +373,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
