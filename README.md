@@ -23,6 +23,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -195,6 +196,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2055-plates-between-candles](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2055-plates-between-candles) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
@@ -231,6 +233,7 @@
 | [0056-merge-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0056-merge-intervals) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -283,6 +286,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Matrix
 |  |
@@ -324,6 +328,7 @@
 | [1946-largest-number-after-mutating-substring](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [2029-stone-game-ix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
