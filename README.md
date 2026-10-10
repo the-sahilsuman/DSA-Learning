@@ -40,6 +40,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3903-smallest-stable-index-i) |
@@ -93,6 +94,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## String
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Stack
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | ------- |
 | [2029-stone-game-ix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Simulation
 |  |
 | ------- |
