@@ -157,6 +157,7 @@
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
 | [2579-count-total-number-of-colored-cells](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2579-count-total-number-of-colored-cells) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3524-find-x-value-of-array-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -352,6 +353,7 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
