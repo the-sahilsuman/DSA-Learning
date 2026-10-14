@@ -122,6 +122,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3498-reverse-degree-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
@@ -246,6 +247,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
@@ -407,4 +409,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
