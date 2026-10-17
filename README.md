@@ -29,6 +29,7 @@
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -166,6 +167,7 @@
 | [2029-stone-game-ix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
 | [2579-count-total-number-of-colored-cells](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2579-count-total-number-of-colored-cells) |
+| [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3524-find-x-value-of-array-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3524-find-x-value-of-array-i) |
@@ -383,6 +385,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Enumeration
 |  |
