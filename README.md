@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0056-merge-intervals) |
+| [0198-house-robber](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
+| [0198-house-robber](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
