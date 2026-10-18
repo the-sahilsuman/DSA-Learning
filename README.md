@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
+| [0072-edit-distance](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
+| [0072-edit-distance](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0072-edit-distance) |
 | [0301-remove-invalid-parentheses](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
