@@ -67,6 +67,7 @@
 | [0494-target-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0940-distinct-subsequences-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0940-distinct-subsequences-ii) |
+| [1092-shortest-common-supersequence](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1510-stone-game-iv) |
@@ -126,6 +127,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0990-satisfiability-of-equality-equations) |
+| [1092-shortest-common-supersequence](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1092-shortest-common-supersequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -455,4 +457,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
