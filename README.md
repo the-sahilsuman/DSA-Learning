@@ -49,6 +49,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -264,6 +265,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Graph Theory
 |  |
@@ -306,6 +308,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -341,6 +344,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -356,6 +360,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
