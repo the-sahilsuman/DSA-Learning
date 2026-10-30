@@ -153,6 +153,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2924-find-champion-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2924-find-champion-ii) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -356,6 +358,7 @@
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -523,4 +526,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
