@@ -33,6 +33,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2402-meeting-rooms-iii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2402-meeting-rooms-iii) |
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -114,6 +115,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2402-meeting-rooms-iii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2402-meeting-rooms-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -291,6 +293,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2402-meeting-rooms-iii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2402-meeting-rooms-iii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -359,6 +362,7 @@
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2402-meeting-rooms-iii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2402-meeting-rooms-iii) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
@@ -423,6 +427,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3498-reverse-degree-of-a-string) |
