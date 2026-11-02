@@ -8,6 +8,7 @@
 | [0198-house-robber](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0621-task-scheduler) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0343-integer-break) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0056-merge-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
