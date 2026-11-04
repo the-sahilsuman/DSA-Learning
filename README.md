@@ -8,6 +8,7 @@
 | [0198-house-robber](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0503-next-greater-element-ii) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0343-integer-break) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
