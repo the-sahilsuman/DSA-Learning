@@ -20,6 +20,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0990-satisfiability-of-equality-equations) |
 | [1140-stone-game-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1386-cinema-seat-allocation) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -282,6 +283,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1267-count-servers-that-communicate) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -332,6 +334,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1267-count-servers-that-communicate) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -370,6 +373,7 @@
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1584-min-cost-to-connect-all-points) |
@@ -391,6 +395,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0835-image-overlap](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
@@ -444,6 +449,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3859-count-subarrays-with-k-distinct-integers) |
