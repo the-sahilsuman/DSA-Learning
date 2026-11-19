@@ -126,6 +126,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0621-task-scheduler](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0621-task-scheduler) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
@@ -513,6 +514,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0138-copy-list-with-random-pointer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
