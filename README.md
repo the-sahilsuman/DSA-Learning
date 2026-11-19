@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0056-merge-intervals) |
+| [0139-word-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0139-word-break) |
 | [0621-task-scheduler](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0621-task-scheduler) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
@@ -153,6 +156,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0139-word-break) |
 | [0301-remove-invalid-parentheses](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0721-accounts-merge) |
@@ -194,6 +198,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0691-stickers-to-spell-word](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0691-stickers-to-spell-word) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-sahilsuman/DSA-Learning/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -601,4 +606,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
