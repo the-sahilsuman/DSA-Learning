@@ -56,6 +56,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3364-minimum-positive-sum-subarray](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -228,6 +229,7 @@
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -378,6 +380,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Stack
@@ -501,11 +504,13 @@
 | ------- |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
 | [2440-create-components-with-same-value](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2440-create-components-with-same-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
