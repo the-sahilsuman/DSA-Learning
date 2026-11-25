@@ -81,6 +81,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3859-count-subarrays-with-k-distinct-integers) |
+| [3934-smallest-unique-subarray](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
+| [3934-smallest-unique-subarray](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3934-smallest-unique-subarray) |
 ## Nim Game
 |  |
 | ------- |
@@ -619,4 +622,16 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/the-sahilsuman/DSA-Learning/tree/master/0139-word-break) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
