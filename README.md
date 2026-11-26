@@ -231,6 +231,7 @@
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3360-stone-removal-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -495,6 +496,7 @@
 | [2402-meeting-rooms-iii](https://github.com/the-sahilsuman/DSA-Learning/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3360-stone-removal-game](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/the-sahilsuman/DSA-Learning/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
